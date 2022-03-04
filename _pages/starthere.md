@@ -10,10 +10,6 @@ permalink: /starthere/
     <h2 class="tags-header-title">{{ page.title }}</h2>
     <div class="tags-header-line"></div>
   </div>
-  <div class="tags-header">
-  	<h3><em>Some categories to get you started...</em></h3>
-	<p><em>If you're brand new, try some Favorites</em></p>
-  </div>
   <div class="tags-clouds">
     {% for category in site.categories %}
     <a href="#{{ category[0] }}">{{ category[0] }}</a>
