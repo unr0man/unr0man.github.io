@@ -1,0 +1,5 @@
+## run locally:
+
+$ bundle exec jekyll serve
+
+Head over to http://127.0.0.1:4000/ to see your site in action.

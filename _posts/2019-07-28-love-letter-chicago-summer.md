@@ -1,0 +1,15 @@
+---
+layout: post
+title: "A Love Letter To Chicago: Summer"
+author: "Roman"
+category: Essay
+tags: summer Chicago letter
+---
+
+In the summer, as you walk, the air thick around you with the sweat of the day and the gathering darkness and the fading light, you will be delighted to see, like so many tiny lanterns floating above your neighbors’ gardens and under trees, the fireflies commence their dance. If you are not in a hurry, you might find it magical. As you pass by the park, you might stop awhile to watch: a constellation of them, some here, some there, like many yellow-green cat's eyes, blinking a kind of visual symphony at you. Awestruck, you feel like a kid for a moment.
+
+You have joined a softball team, and each game is the highlight of your week. How different it is from your memories of pugnacious adults frothing at little league games, the reek of fear and yellow Gatorade, the fleeting joy of Dubble Bubble wadded between your teeth. No, here, they cheer whether you slug it or strike out at no expense to competitive spirit; both sides are fierce, but rarely not playful. The day feels endless in the best way possible: the sun sits lazily at the end of a blue sky, never moving. The ash and elm trees rustle in the breeze. A steady movement of laughter and excitement at neighboring diamonds. It blends with your own. The pleasing clink of metal bats meeting softballs. The distant rush of traffic beyond the colonnade of trees sounds almost like a river—until, as inevitably happens, a horn goes off; but, that too, is a treat, for it’s to be reminded of the mess and bustle of the world from which you’ve escaped momentarily to experience some of the best and simplest things on offer. Awaiting you when your team’s at bat, is a cooler brimming with light Midwestern beers. And there’s hot dogs too, some charred (the chef’s on-deck) and some not. You take a bite and you cheer on the batter.
+
+The suddenness of summer rains will delight you too. Maybe not at the second of its arrival, and especially not if you're at an outdoor festival, running an errand on bike, or dressed in your best—but, when you're with the right folks, the absurdity of the downpour, its surprise and severity (like God forgot to shut off the tap), is a cause for laughter. In fact, you do laugh, because you are enjoying a stroll on the Lakefront trail with friends, and you have just passed the thousands gathered at Lollapalooza, and it occurs to you that your walk cost you nothing.
+
+It’s your first summer, so you might not notice, but you soon do: as soon as the winter releases its cold grip on spring, the city comes alive. Faces, once chilled and gray, emerge, having shed their knit caps and parkas, now immersed in light and color—and except for the odd day that’s just way too hot—they emerge wearing a smile. You can feel it too. You see it in the droves of beachgoers, loungers and tanners, swimmers, cyclists, and barbecuers all up and down the lake shore. You close your eyes, and you can hear it. It’s perfect. 

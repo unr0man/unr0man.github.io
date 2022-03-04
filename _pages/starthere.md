@@ -1,0 +1,60 @@
+---
+layout: default
+title: "Welcome"
+author: "Roman Adeis"
+permalink: /starthere/
+---
+
+<div class="categories">
+  <div class="tags-header">
+    <h2 class="tags-header-title">{{ page.title }}</h2>
+    <div class="tags-header-line"></div>
+  </div>
+  <div class="tags-header">
+  	<h3><em>Some categories to get you started...</em></h3>
+	<p><em>If you're brand new, try some Favorites</em></p>
+  </div>
+  <div class="tags-clouds">
+    {% for category in site.categories %}
+    <a href="#{{ category[0] }}">{{ category[0] }}</a>
+    {% endfor %}
+  </div>
+  {% for category in site.categories %}
+  <div class="tags-item" id="{{ category[0] }}">
+    <!--- COMMENTING OUT THE ICON.
+	<svg
+      class="tags-item-icon"
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      class="feather feather-tag"
+    >
+      <path
+        d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"
+      ></path>
+      <line x1="7" y1="7" x2="7.01" y2="7"></line>
+    </svg>
+		--->
+    <h2 class="tags-item-label">{{ category[0] }}</h2>
+    {% for post in category[1] %}
+    <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
+      <div>
+        <span class="tags-post-title">{{ post.title }}</span>
+        <div class="tags-post-line"></div>
+      </div>
+      <span class="tags-post-meta">
+        <time datetime="{{ post.date }}">
+          {{ post.date | date:"%Y-%m-%d" }}
+        </time>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
