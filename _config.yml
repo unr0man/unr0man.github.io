@@ -1,8 +1,8 @@
 # Site settings
 title:          Roman Writes
-description:    "Roman Writes (Also: An Amateur Observes)"
+description:    "Roman Writes"
 #baseurl:        "/tale"
-url:            "https://romanwrites.com"
+url:            "http://www.romanwrites.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Roman Adeis
-  url:          https://romanwrites.com
+  url:          http://www.romanwrites.com
   email:        romanadeis@protonmail.com
 
 # Build settings
